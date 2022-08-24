@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pjPlanila", "pjPlanila\pjPlanila.csproj", "{D67BD7EA-3C4C-440B-8B41-1F54A0C4E653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D67BD7EA-3C4C-440B-8B41-1F54A0C4E653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67BD7EA-3C4C-440B-8B41-1F54A0C4E653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67BD7EA-3C4C-440B-8B41-1F54A0C4E653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67BD7EA-3C4C-440B-8B41-1F54A0C4E653}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00C21A46-EC5E-4132-825A-3B7B6EBD79C3}
+	EndGlobalSection
+EndGlobal
